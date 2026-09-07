@@ -3,7 +3,7 @@
 > Cada item do MEI0028_WP1A é listado com a evidência que o satisfaz. Status: ✅ atendido ·
 > ⏳ em execução · ⬜ pendente · ⚠️ atendido com ressalva. **Validação final: 06/09/2026, após conclusão de todas as fases.**
 >
-> **Pendências que só o grupo pode resolver:** (1) nomes, titulações e e-mails dos autores e minibiografias em nota de rodapé (template Sodebras); (2) A9 apresentação; (3) ~~repositório no GitHub~~ — **resolvido em 07/09/2026**: https://github.com/ricardoarfr/MEI0028-modelagem-e-simulacao (público).
+> **Pendências que só o grupo pode resolver:** (1) ~~autoria~~ **resolvida em 07/09/2026** (autor único + professor responsável), falta o e-mail institucional do Prof. Clarimar; (2) ~~A9 apresentação~~ **entregue em 07/09/2026**; (3) ~~repositório no GitHub~~ — **resolvido em 07/09/2026**: https://github.com/ricardoarfr/MEI0028-modelagem-e-simulacao (público).
 
 ## §6.2 Objetivos específicos
 
@@ -67,15 +67,15 @@
 
 | ID | Entrega | Evidência | Status |
 |---|---|---|---|
-| A1 | Relatório de auditoria | `reports/01-auditoria.md` | ✅ |
+| A1 | Relatório de auditoria | `reports/A1-relatorio-auditoria.pdf` (3 p.) + `reports/01-auditoria.md` + `tab01_caracterizacao_base.csv` | ✅ |
 | A2 | Análise exploratória | figuras e tabelas `eda_*` | ✅ |
 | A3 | Manifesto da divisão por execução | `manifesto_divisao.csv` | ✅ |
 | A4 | Implementação dos seis modelos | `src/07_treino_final.py` | ✅ |
 | A5 | Resultados completos | `results/` | ✅ |
 | A6 | Figuras e tabelas do artigo | `apresentacao/` + registro Excel | ✅ |
-| A7 | Relatório técnico final | `reports/01-auditoria.md` + `artigo/DESAFIOS-E-AJUSTES.md` + `plano/` (relatório consolidado = artigo + estes) | ⚠️ parcial |
-| A8 | Manuscrito científico | `artigo/ARTIGO-FINAL.docx` | ✅ (autores/minibiografias a preencher) |
-| A9 | Apresentação | fora do escopo desta sessão | ⬜ |
+| A7 | Relatório técnico final | `artigo/RELATORIO-TECNICO.pdf` (10 p.; estrutura de relatório de laboratório: objetivo, fundamentação, materiais, procedimento, resultados, discussão, dificuldades, conclusão) | ✅ |
+| A8 | Manuscrito científico | `artigo/ARTIGO-FINAL.docx` | ✅ (falta só o e-mail institucional do professor responsável) |
+| A9 | Apresentação | `apresentacao/APRESENTACAO-WP1A.pptx` (11 slides; gerada por `src/build_apresentacao.py`) | ✅ |
 
 ## §18 Riscos e cuidados metodológicos
 
