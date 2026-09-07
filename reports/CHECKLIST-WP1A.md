@@ -3,7 +3,7 @@
 > Cada item do MEI0028_WP1A é listado com a evidência que o satisfaz. Status: ✅ atendido ·
 > ⏳ em execução · ⬜ pendente · ⚠️ atendido com ressalva. **Validação final: 06/09/2026, após conclusão de todas as fases.**
 >
-> **Pendências que só o grupo pode resolver:** (1) nomes, titulações e e-mails dos autores e minibiografias em nota de rodapé (template Sodebras); (2) A9 apresentação; (3) decisão sobre publicar o repositório (GitHub) — hoje os notebooks estão no Drive.
+> **Pendências que só o grupo pode resolver:** (1) nomes, titulações e e-mails dos autores e minibiografias em nota de rodapé (template Sodebras); (2) A9 apresentação; (3) ~~repositório no GitHub~~ — **resolvido em 07/09/2026**: https://github.com/ricardoarfr/MEI0028-modelagem-e-simulacao (público).
 
 ## §6.2 Objetivos específicos
 
@@ -61,7 +61,7 @@
 | 8 | análise das falhas mais confundidas | `tab06_*.csv` + texto | ✅ |
 | 9 | CSV com resultados brutos | `tab03b_metricas_por_seed.csv`, `results/predictions/*.parquet`, `busca_hp_resultados_MERGED.json` | ✅ |
 | 10 | metadados do ambiente computacional | `results/metadata/ambiente.json`, `requirements.txt` | ✅ |
-| 11 | repositório com scripts numerados e instruções | `ProjetoA_WP1A/src/01…09`, `README.md`; **3 notebooks Colab** no Drive (`WP1A_notebooks_TEP_benchmark/`: dados-auditoria-divisão-EDA · vazamento-hiperparâmetros · treino-avaliação-registro) | ✅ |
+| 11 | repositório com scripts numerados e instruções | `ProjetoA_WP1A/src/01…09`, `README.md`; **3 notebooks Colab** (Drive `WP1A_notebooks_TEP_benchmark/` e `notebooks/` do repositório público) | ✅ |
 
 ## §15 Entregas (A1–A9)
 
