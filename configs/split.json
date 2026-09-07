@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "n_treino_por_classe": 100,
+  "n_validacao_por_classe": 50,
+  "teste": "todos os runs do Testing",
+  "unidade": "simulationRun (execu\u00e7\u00e3o completa)",
+  "verificacao_intersecao_vazia": true,
+  "totais": {
+    "teste": 10500,
+    "nao_usado_training": 7350,
+    "treino": 2100,
+    "validacao": 1050
+  }
+}

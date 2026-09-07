@@ -1,0 +1,7 @@
+Modelo,Hiperparametros,F1_macro_validacao
+Regressão Logística,"{""C"": 10.0}",0.4641
+Árvore de Decisão,"{""min_samples_leaf"": 20, ""max_depth"": null}",0.7429
+Random Forest,"{""n_estimators"": 200, ""min_samples_leaf"": 20, ""max_features"": 0.3}",0.7878
+Gradient Boosting,"{""learning_rate"": 0.05, ""max_iter"": 200, ""max_leaf_nodes"": 31}",0.7453
+XGBoost,"{""n_estimators"": 500, ""max_depth"": 6, ""learning_rate"": 0.1}",0.8135
+SVM (Nyström),"{""n_components"": 500, ""alpha"": 1e-05}",0.6305

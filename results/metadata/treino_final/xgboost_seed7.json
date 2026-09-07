@@ -1,0 +1,26 @@
+{
+  "modelo": "xgboost",
+  "seed": 7,
+  "params": {
+    "n_estimators": 500,
+    "max_depth": 6,
+    "learning_rate": 0.1
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 531.09,
+  "tempo_inferencia_total_s": 318.07,
+  "tempo_inferencia_por_amostra_us": 31.554,
+  "tamanho_modelo_bytes": 13582266,
+  "pico_memoria_MB": 1845.6,
+  "acuracia": 0.7637050595238095,
+  "acuracia_balanceada": 0.8152594368131868,
+  "f1_macro": 0.8172400267296825,
+  "f1_ponderada": 0.7784821090339911,
+  "mcc": 0.7494490098951188,
+  "rotulo_run_acuracia": 0.6808165674603175,
+  "rotulo_run_f1_macro": 0.729306261956147,
+  "rotulo_run_mcc": 0.6695012303681074,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4
+}

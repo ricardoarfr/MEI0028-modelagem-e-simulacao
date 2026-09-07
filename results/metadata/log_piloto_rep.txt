@@ -1,0 +1,150 @@
+seed 42 DT_leaf50            A=0.7122 B=0.7324 Δ=+0.0202
+seed 42 DT_leaf1_sem_poda    A=0.6994 B=0.7331 Δ=+0.0337
+seed 42 RF50_leaf50          A=0.7612 B=0.7766 Δ=+0.0154
+seed 42 RF50_leaf1_sem_poda  A=0.7762 B=0.8068 Δ=+0.0306
+seed 123 DT_leaf50            A=0.7141 B=0.7286 Δ=+0.0145
+seed 123 DT_leaf1_sem_poda    A=0.7017 B=0.7298 Δ=+0.0281
+seed 123 RF50_leaf50          A=0.7579 B=0.7706 Δ=+0.0127
+seed 123 RF50_leaf1_sem_poda  A=0.7750 B=0.8040 Δ=+0.0290
+seed 2024 DT_leaf50            A=0.7143 B=0.7299 Δ=+0.0156
+seed 2024 DT_leaf1_sem_poda    A=0.7053 B=0.7324 Δ=+0.0271
+seed 2024 RF50_leaf50          A=0.7610 B=0.7725 Δ=+0.0115
+seed 2024 RF50_leaf1_sem_poda  A=0.7767 B=0.8061 Δ=+0.0293
+seed 7 DT_leaf50            A=0.7192 B=0.7297 Δ=+0.0105
+seed 7 DT_leaf1_sem_poda    A=0.7041 B=0.7330 Δ=+0.0289
+seed 7 RF50_leaf50          A=0.7597 B=0.7736 Δ=+0.0139
+seed 7 RF50_leaf1_sem_poda  A=0.7771 B=0.8078 Δ=+0.0307
+seed 555 DT_leaf50            A=0.7222 B=0.7330 Δ=+0.0107
+seed 555 DT_leaf1_sem_poda    A=0.7096 B=0.7339 Δ=+0.0243
+seed 555 RF50_leaf50          A=0.7602 B=0.7761 Δ=+0.0160
+seed 555 RF50_leaf1_sem_poda  A=0.7795 B=0.8104 Δ=+0.0309
+seed 11 DT_leaf50            A=0.7188 B=0.7305 Δ=+0.0117
+seed 11 DT_leaf1_sem_poda    A=0.7061 B=0.7319 Δ=+0.0258
+seed 11 RF50_leaf50          A=0.7650 B=0.7749 Δ=+0.0099
+seed 11 RF50_leaf1_sem_poda  A=0.7819 B=0.8081 Δ=+0.0262
+seed 29 DT_leaf50            A=0.7139 B=0.7311 Δ=+0.0172
+seed 29 DT_leaf1_sem_poda    A=0.7024 B=0.7318 Δ=+0.0294
+seed 29 RF50_leaf50          A=0.7595 B=0.7734 Δ=+0.0138
+seed 29 RF50_leaf1_sem_poda  A=0.7776 B=0.8073 Δ=+0.0297
+seed 73 DT_leaf50            A=0.7217 B=0.7307 Δ=+0.0089
+seed 73 DT_leaf1_sem_poda    A=0.7052 B=0.7310 Δ=+0.0258
+seed 73 RF50_leaf50          A=0.7614 B=0.7713 Δ=+0.0099
+seed 73 RF50_leaf1_sem_poda  A=0.7783 B=0.8053 Δ=+0.0270
+seed 101 DT_leaf50            A=0.7168 B=0.7302 Δ=+0.0134
+seed 101 DT_leaf1_sem_poda    A=0.7054 B=0.7331 Δ=+0.0277
+seed 101 RF50_leaf50          A=0.7581 B=0.7723 Δ=+0.0142
+seed 101 RF50_leaf1_sem_poda  A=0.7763 B=0.8082 Δ=+0.0320
+seed 202 DT_leaf50            A=0.7183 B=0.7289 Δ=+0.0105
+seed 202 DT_leaf1_sem_poda    A=0.7067 B=0.7305 Δ=+0.0238
+seed 202 RF50_leaf50          A=0.7589 B=0.7730 Δ=+0.0141
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/sklearn/utils/parallel.py:144: UserWarning: `sklearn.utils.parallel.delayed` should be used with `sklearn.utils.parallel.Parallel` to make it possible to propagate the scikit-learn configuration of the current thread to the joblib workers.
+  warnings.warn(
+seed 202 RF50_leaf1_sem_poda  A=0.7788 B=0.8067 Δ=+0.0279
+                 modelo              metrica   R  A_media  B_media  delta_media  delta_dp  ic95_inf  ic95_sup  delta_min  delta_max  p_wilcoxon
+0             DT_leaf50             f1_macro  10   0.7172   0.7305       0.0133    0.0035    0.0108    0.0159     0.0089     0.0202       0.002
+1             DT_leaf50                  mcc  10   0.6850   0.7002       0.0152    0.0038    0.0124    0.0179     0.0100     0.0222       0.002
+2             DT_leaf50  acuracia_balanceada  10   0.7055   0.7195       0.0140    0.0035    0.0115    0.0165     0.0100     0.0204       0.002
+3     DT_leaf1_sem_poda             f1_macro  10   0.7046   0.7321       0.0275    0.0029    0.0254    0.0295     0.0238     0.0337       0.002
+4     DT_leaf1_sem_poda                  mcc  10   0.6799   0.7084       0.0285    0.0032    0.0262    0.0308     0.0243     0.0350       0.002
+5     DT_leaf1_sem_poda  acuracia_balanceada  10   0.7034   0.7305       0.0271    0.0031    0.0249    0.0293     0.0232     0.0332       0.002
+6           RF50_leaf50             f1_macro  10   0.7603   0.7734       0.0131    0.0021    0.0116    0.0147     0.0099     0.0160       0.002
+7           RF50_leaf50                  mcc  10   0.7395   0.7553       0.0158    0.0027    0.0138    0.0177     0.0111     0.0197       0.002
+8           RF50_leaf50  acuracia_balanceada  10   0.7525   0.7659       0.0134    0.0024    0.0116    0.0151     0.0098     0.0166       0.002
+9   RF50_leaf1_sem_poda             f1_macro  10   0.7777   0.8071       0.0293    0.0018    0.0280    0.0306     0.0262     0.0320       0.002
+10  RF50_leaf1_sem_poda                  mcc  10   0.7511   0.7831       0.0320    0.0020    0.0306    0.0334     0.0292     0.0345       0.002
+11  RF50_leaf1_sem_poda  acuracia_balanceada  10   0.7680   0.7975       0.0295    0.0017    0.0283    0.0307     0.0271     0.0320       0.002
+PILOTO REPETIÇÕES COMPLETO

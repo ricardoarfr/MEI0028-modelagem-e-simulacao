@@ -1,0 +1,31 @@
+metrica,comparacao,diferenca,ic95_inf,ic95_sup,exclui_zero
+f1_macro,Regressão Logística vs Árvore de Decisão,-0.2658,-0.2669,-0.2647,True
+mcc,Regressão Logística vs Árvore de Decisão,-0.1034,-0.1045,-0.1023,True
+f1_macro,Regressão Logística vs Random Forest,-0.3188,-0.3199,-0.3177,True
+mcc,Regressão Logística vs Random Forest,-0.1756,-0.1768,-0.1744,True
+f1_macro,Regressão Logística vs Gradient Boosting,-0.2261,-0.2272,-0.2251,True
+mcc,Regressão Logística vs Gradient Boosting,-0.0905,-0.0916,-0.0893,True
+f1_macro,Regressão Logística vs XGBoost,-0.3423,-0.3434,-0.3413,True
+mcc,Regressão Logística vs XGBoost,-0.1965,-0.1977,-0.1954,True
+f1_macro,Regressão Logística vs SVM (Nyström),-0.0217,-0.0228,-0.0207,True
+mcc,Regressão Logística vs SVM (Nyström),0.0668,0.0656,0.068,True
+f1_macro,Árvore de Decisão vs Random Forest,-0.0529,-0.0537,-0.0521,True
+mcc,Árvore de Decisão vs Random Forest,-0.0721,-0.0729,-0.0712,True
+f1_macro,Árvore de Decisão vs Gradient Boosting,0.0397,0.0388,0.0405,True
+mcc,Árvore de Decisão vs Gradient Boosting,0.013,0.0121,0.0138,True
+f1_macro,Árvore de Decisão vs XGBoost,-0.0765,-0.0773,-0.0756,True
+mcc,Árvore de Decisão vs XGBoost,-0.0931,-0.094,-0.0922,True
+f1_macro,Árvore de Decisão vs SVM (Nyström),0.2441,0.2431,0.245,True
+mcc,Árvore de Decisão vs SVM (Nyström),0.1703,0.1692,0.1713,True
+f1_macro,Random Forest vs Gradient Boosting,0.0926,0.092,0.0932,True
+mcc,Random Forest vs Gradient Boosting,0.0851,0.0845,0.0856,True
+f1_macro,Random Forest vs XGBoost,-0.0235,-0.024,-0.0231,True
+mcc,Random Forest vs XGBoost,-0.021,-0.0214,-0.0206,True
+f1_macro,Random Forest vs SVM (Nyström),0.297,0.2962,0.2979,True
+mcc,Random Forest vs SVM (Nyström),0.2424,0.2413,0.2435,True
+f1_macro,Gradient Boosting vs XGBoost,-0.1162,-0.1168,-0.1156,True
+mcc,Gradient Boosting vs XGBoost,-0.1061,-0.1066,-0.1055,True
+f1_macro,Gradient Boosting vs SVM (Nyström),0.2044,0.2037,0.2051,True
+mcc,Gradient Boosting vs SVM (Nyström),0.1573,0.1563,0.1582,True
+f1_macro,XGBoost vs SVM (Nyström),0.3206,0.3197,0.3215,True
+mcc,XGBoost vs SVM (Nyström),0.2634,0.2622,0.2645,True

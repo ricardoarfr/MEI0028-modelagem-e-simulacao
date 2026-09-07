@@ -1,0 +1,127 @@
+modelo,classe,precisao,revocacao,f1
+Árvore de Decisão,0,0.623,0.3331,0.4341
+Árvore de Decisão,1,0.9888,0.9843,0.9866
+Árvore de Decisão,2,0.9864,0.9816,0.984
+Árvore de Decisão,3,0.1173,0.2176,0.1524
+Árvore de Decisão,4,0.9452,0.9743,0.9595
+Árvore de Decisão,5,0.932,0.8778,0.9041
+Árvore de Decisão,6,0.9989,0.9984,0.9986
+Árvore de Decisão,7,0.9911,0.9985,0.9948
+Árvore de Decisão,8,0.8145,0.797,0.8056
+Árvore de Decisão,9,0.1121,0.2139,0.1471
+Árvore de Decisão,10,0.7162,0.7303,0.7232
+Árvore de Decisão,11,0.8325,0.7677,0.7988
+Árvore de Decisão,12,0.7683,0.7802,0.7742
+Árvore de Decisão,13,0.8857,0.7818,0.8305
+Árvore de Decisão,14,0.9807,0.9756,0.9782
+Árvore de Decisão,15,0.1138,0.2178,0.1495
+Árvore de Decisão,16,0.8319,0.7431,0.785
+Árvore de Decisão,17,0.93,0.8946,0.9119
+Árvore de Decisão,18,0.8792,0.8578,0.8683
+Árvore de Decisão,19,0.6667,0.7313,0.6975
+Árvore de Decisão,20,0.6605,0.6818,0.671
+Gradient Boosting,0,0.6423,0.5006,0.558
+Gradient Boosting,1,0.9517,0.9457,0.9483
+Gradient Boosting,2,0.9803,0.8929,0.9295
+Gradient Boosting,3,0.153,0.3023,0.2029
+Gradient Boosting,4,0.7556,0.9094,0.7854
+Gradient Boosting,5,0.894,0.822,0.8541
+Gradient Boosting,6,0.9565,0.9858,0.9707
+Gradient Boosting,7,0.7867,0.7666,0.7756
+Gradient Boosting,8,0.8508,0.7359,0.7878
+Gradient Boosting,9,0.1278,0.1298,0.1279
+Gradient Boosting,10,0.7561,0.6839,0.713
+Gradient Boosting,11,0.7252,0.708,0.7144
+Gradient Boosting,12,0.7262,0.6928,0.7089
+Gradient Boosting,13,0.8642,0.6991,0.7715
+Gradient Boosting,14,0.9195,0.9082,0.913
+Gradient Boosting,15,0.13,0.1524,0.1397
+Gradient Boosting,16,0.8684,0.6745,0.7525
+Gradient Boosting,17,0.8521,0.8765,0.8573
+Gradient Boosting,18,0.8226,0.8258,0.8241
+Gradient Boosting,19,0.7205,0.7492,0.7326
+Gradient Boosting,20,0.8083,0.7197,0.7588
+Random Forest,0,0.6731,0.5208,0.5872
+Random Forest,1,0.9955,0.9877,0.9916
+Random Forest,2,0.9976,0.9847,0.9911
+Random Forest,3,0.1504,0.2737,0.1941
+Random Forest,4,0.9443,0.9848,0.9641
+Random Forest,5,0.9853,0.9459,0.9652
+Random Forest,6,1.0,0.9998,0.9999
+Random Forest,7,0.9942,0.9999,0.9971
+Random Forest,8,0.954,0.9099,0.9314
+Random Forest,9,0.1416,0.1635,0.1517
+Random Forest,10,0.7777,0.8369,0.8062
+Random Forest,11,0.8651,0.8025,0.8327
+Random Forest,12,0.8712,0.8942,0.8825
+Random Forest,13,0.9807,0.8539,0.913
+Random Forest,14,0.9928,0.9761,0.9844
+Random Forest,15,0.1365,0.2049,0.1639
+Random Forest,16,0.9493,0.8033,0.8702
+Random Forest,17,0.9552,0.92,0.9372
+Random Forest,18,0.9302,0.8963,0.9129
+Random Forest,19,0.7615,0.8684,0.8115
+Random Forest,20,0.7941,0.7641,0.7788
+Regressão Logística,0,0.3971,0.9319,0.5569
+Regressão Logística,1,0.9603,0.9892,0.9745
+Regressão Logística,2,0.9652,0.9825,0.9738
+Regressão Logística,3,0.0,0.0,0.0
+Regressão Logística,4,0.6956,0.9981,0.8199
+Regressão Logística,5,0.8821,0.9851,0.9307
+Regressão Logística,6,1.0,0.9999,1.0
+Regressão Logística,7,0.999,1.0,0.9995
+Regressão Logística,8,0.407,0.4534,0.4289
+Regressão Logística,9,0.0,0.0,0.0
+Regressão Logística,10,0.9927,0.015,0.0297
+Regressão Logística,11,0.9583,0.0039,0.0077
+Regressão Logística,12,0.2985,0.3086,0.3035
+Regressão Logística,13,0.4617,0.5219,0.49
+Regressão Logística,14,0.0,0.0,0.0
+Regressão Logística,15,0.0,0.0,0.0
+Regressão Logística,16,0.2342,0.001,0.0019
+Regressão Logística,17,0.7162,0.8103,0.7603
+Regressão Logística,18,0.8505,0.8612,0.8558
+Regressão Logística,19,0.0,0.0,0.0
+Regressão Logística,20,0.8619,0.8182,0.8395
+SVM (Nyström),0,0.0,0.0,0.0
+SVM (Nyström),1,0.9664,0.9855,0.9758
+SVM (Nyström),2,0.9713,0.9877,0.9792
+SVM (Nyström),3,0.029,0.0,0.0
+SVM (Nyström),4,0.6972,0.9976,0.8161
+SVM (Nyström),5,0.8831,0.9876,0.9308
+SVM (Nyström),6,0.629,0.9163,0.7232
+SVM (Nyström),7,0.9925,1.0,0.9962
+SVM (Nyström),8,0.4664,0.7456,0.5217
+SVM (Nyström),9,0.0,0.0,0.0
+SVM (Nyström),10,0.2096,0.2897,0.1607
+SVM (Nyström),11,0.1943,0.0013,0.0025
+SVM (Nyström),12,0.5089,0.7313,0.5814
+SVM (Nyström),13,0.5173,0.833,0.6344
+SVM (Nyström),14,0.5832,0.852,0.6666
+SVM (Nyström),15,0.0,0.0,0.0
+SVM (Nyström),16,0.6221,0.1676,0.0933
+SVM (Nyström),17,0.8333,0.8413,0.8362
+SVM (Nyström),18,0.5989,0.8848,0.7124
+SVM (Nyström),19,0.4494,0.5387,0.4821
+SVM (Nyström),20,0.7554,0.5948,0.6331
+XGBoost,0,0.6923,0.5076,0.5857
+XGBoost,1,0.9967,0.9909,0.9938
+XGBoost,2,0.9971,0.9862,0.9916
+XGBoost,3,0.1654,0.3389,0.2223
+XGBoost,4,0.9474,0.9885,0.9675
+XGBoost,5,0.9951,0.9886,0.9918
+XGBoost,6,1.0,1.0,1.0
+XGBoost,7,1.0,1.0,1.0
+XGBoost,8,0.9742,0.9417,0.9576
+XGBoost,9,0.1451,0.1785,0.1601
+XGBoost,10,0.8424,0.8434,0.8429
+XGBoost,11,0.8704,0.8475,0.8588
+XGBoost,12,0.9391,0.9326,0.9359
+XGBoost,13,0.9862,0.8987,0.9404
+XGBoost,14,0.9922,0.9834,0.9878
+XGBoost,15,0.1466,0.2052,0.171
+XGBoost,16,0.9726,0.8218,0.8908
+XGBoost,17,0.9693,0.9407,0.9548
+XGBoost,18,0.9439,0.9334,0.9386
+XGBoost,19,0.8467,0.9164,0.8802
+XGBoost,20,0.9055,0.8745,0.8897

@@ -1,0 +1,89 @@
+{
+  "regressao_logistica": {
+    "params": {
+      "C": 10.0
+    },
+    "f1_macro": 0.4640917955146629,
+    "mcc": 0.5252496321034498,
+    "acuracia_balanceada": 0.4996562169312169,
+    "acuracia": 0.5172628571428571,
+    "tempo_treino_s": 38.2,
+    "n_iter": 512,
+    "max_iter": 5000,
+    "convergiu": true
+  },
+  "arvore_decisao": {
+    "params": {
+      "min_samples_leaf": 20,
+      "max_depth": null
+    },
+    "f1_macro": 0.7429144841810595,
+    "mcc": 0.7107393563944768,
+    "acuracia_balanceada": 0.7308957671957672,
+    "acuracia": 0.724912380952381,
+    "tempo_treino_s": 40.0,
+    "origem": "mac"
+  },
+  "random_forest": {
+    "params": {
+      "n_estimators": 200,
+      "min_samples_leaf": 20,
+      "max_features": 0.3
+    },
+    "f1_macro": 0.7878298288289687,
+    "mcc": 0.7618125713728794,
+    "acuracia_balanceada": 0.7776630952380951,
+    "acuracia": 0.7728952380952381,
+    "tempo_treino_s": 577.6,
+    "origem": "mac"
+  },
+  "gradient_boosting": {
+    "params": {
+      "learning_rate": 0.05,
+      "max_iter": 200,
+      "max_leaf_nodes": 31
+    },
+    "f1_macro": 0.7452852305433009,
+    "mcc": 0.72301070833302,
+    "acuracia_balanceada": 0.7403683862433862,
+    "acuracia": 0.7362380952380952,
+    "tempo_treino_s": 124.7,
+    "origem": "mac"
+  },
+  "svm_nystroem": {
+    "params": {
+      "n_components": 500,
+      "alpha": 1e-05
+    },
+    "f1_macro": 0.6304611105796154,
+    "mcc": 0.6043996735238479,
+    "acuracia_balanceada": 0.6336382275132276,
+    "acuracia": 0.6136171428571429,
+    "tempo_treino_s": 23.7,
+    "origem": "mac"
+  },
+  "xgboost": {
+    "params": {
+      "n_estimators": 500,
+      "max_depth": 6,
+      "learning_rate": 0.1
+    },
+    "f1_macro": 0.8135416839631463,
+    "mcc": 0.7887073404425814,
+    "acuracia_balanceada": 0.8049075396825397,
+    "acuracia": 0.798735238095238,
+    "tempo_treino_s": 89.3,
+    "origem": "colab"
+  },
+  "regressao_logistica_maxiter300": {
+    "params": {
+      "C": 10.0
+    },
+    "f1_macro": 0.4635220691916614,
+    "mcc": 0.524279411852685,
+    "acuracia_balanceada": 0.4989775132275132,
+    "acuracia": 0.5165695238095238,
+    "tempo_treino_s": 25.1,
+    "origem": "mac"
+  }
+}

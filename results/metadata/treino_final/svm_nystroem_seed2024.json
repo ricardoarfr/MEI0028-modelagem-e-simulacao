@@ -1,0 +1,25 @@
+{
+  "modelo": "svm_nystroem",
+  "seed": 2024,
+  "params": {
+    "n_components": 500,
+    "alpha": 1e-05
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 55.6,
+  "tempo_inferencia_total_s": 22.8,
+  "tempo_inferencia_por_amostra_us": 2.262,
+  "tamanho_modelo_bytes": 1169664,
+  "pico_memoria_MB": 1616.4,
+  "acuracia": 0.5022719246031746,
+  "acuracia_balanceada": 0.6027263095238096,
+  "f1_macro": 0.5404052860484998,
+  "f1_ponderada": 0.45033773837374996,
+  "mcc": 0.5230872223385276,
+  "rotulo_run_acuracia": 0.5102084325396825,
+  "rotulo_run_f1_macro": 0.49726711535367485,
+  "rotulo_run_mcc": 0.5157709568124494,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4
+}

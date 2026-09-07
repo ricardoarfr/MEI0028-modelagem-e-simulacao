@@ -1,0 +1,7 @@
+Modelo,configs_testadas,melhor_f1_macro_val,pior_f1_macro_val
+Regressão Logística,4,0.4635,0.4454
+Árvore de Decisão,8,0.7429,0.6427
+Random Forest,12,0.7878,0.7632
+Gradient Boosting,8,0.7453,0.0499
+SVM (Nyström),6,0.6305,0.5338
+XGBoost,8,0.8135,0.7825

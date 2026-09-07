@@ -1,0 +1,13 @@
+modelo,condicao,acuracia,acuracia_balanceada,f1_macro,mcc,tempo_s
+DT_leaf50,A_por_run,0.7045,0.7097,0.7208,0.6893,17.4677
+DT_leaf50,B_por_amostra,0.7178,0.7224,0.7328,0.7033,17.7215
+DT_leaf1_sem_poda,A_por_run,0.6963,0.7045,0.7057,0.6806,21.4261
+DT_leaf1_sem_poda,B_por_amostra,0.7246,0.7326,0.7341,0.7103,23.1323
+RF50_leaf50,A_por_run,0.7523,0.7536,0.7605,0.7413,27.2451
+RF50_leaf50,B_por_amostra,0.7659,0.7666,0.7736,0.7561,28.2855
+RF50_leaf1_sem_poda,A_por_run,0.7626,0.7681,0.7785,0.7506,34.4483
+RF50_leaf1_sem_poda,B_por_amostra,0.7923,0.7971,0.8068,0.7821,36.8626
+DT_leaf50,diferenca_B_menos_A,0.0133,0.0128,0.012,0.014,
+DT_leaf1_sem_poda,diferenca_B_menos_A,0.0283,0.0281,0.0284,0.0297,
+RF50_leaf50,diferenca_B_menos_A,0.0137,0.013,0.0131,0.0149,
+RF50_leaf1_sem_poda,diferenca_B_menos_A,0.0298,0.029,0.0283,0.0314,

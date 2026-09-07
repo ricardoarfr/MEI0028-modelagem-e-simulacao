@@ -1,0 +1,5 @@
+Arquivo,Linhas,Colunas,Classes,Runs_por_classe,Amostras_por_run,Nulos,Infinitos,Duplicatas
+TEP_FaultFree_Training,250000,55,1,500,500,0,0,0
+TEP_FaultFree_Testing,480000,55,1,500,960,0,0,0
+TEP_Faulty_Training,5000000,55,20,500,500,0,0,0
+TEP_Faulty_Testing,9600000,55,20,500,960,0,0,0

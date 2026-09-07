@@ -1,0 +1,26 @@
+{
+  "modelo": "regressao_logistica",
+  "seed": 555,
+  "params": {
+    "C": 10.0
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 167.1,
+  "tempo_inferencia_total_s": 1.8,
+  "tempo_inferencia_por_amostra_us": 0.179,
+  "tamanho_modelo_bytes": 6445,
+  "pico_memoria_MB": 1042.0,
+  "acuracia": 0.57914375,
+  "acuracia_balanceada": 0.508589423076923,
+  "f1_macro": 0.4748833035126732,
+  "f1_ponderada": 0.4885486460524724,
+  "mcc": 0.5530446541692656,
+  "rotulo_run_acuracia": 0.4315781746031746,
+  "rotulo_run_f1_macro": 0.4171780154760124,
+  "rotulo_run_mcc": 0.4564103548776393,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4,
+  "n_iter": 841,
+  "max_iter": 5000
+}

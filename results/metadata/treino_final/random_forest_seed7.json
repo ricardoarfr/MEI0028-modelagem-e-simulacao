@@ -1,0 +1,26 @@
+{
+  "modelo": "random_forest",
+  "seed": 7,
+  "params": {
+    "n_estimators": 200,
+    "min_samples_leaf": 20,
+    "max_features": 0.3
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 1269.94,
+  "tempo_inferencia_total_s": 99.18,
+  "tempo_inferencia_por_amostra_us": 9.839,
+  "tamanho_modelo_bytes": 300168176,
+  "pico_memoria_MB": 1420.5,
+  "acuracia": 0.7452753968253968,
+  "acuracia_balanceada": 0.7901669184981686,
+  "f1_macro": 0.7937451674730799,
+  "f1_ponderada": 0.759370792119941,
+  "mcc": 0.728693835563499,
+  "rotulo_run_acuracia": 0.6598244047619047,
+  "rotulo_run_f1_macro": 0.707598595808864,
+  "rotulo_run_mcc": 0.6478134688146103,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4
+}

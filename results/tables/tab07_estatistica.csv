@@ -1,0 +1,33 @@
+metrica,teste,comparacao,estatistica,p,p_holm
+f1_macro,Friedman,todos,23.85714,0.00023,
+f1_macro,Wilcoxon,Regressão Logística vs Árvore de Decisão,-0.26583,0.0625,0.9375
+f1_macro,Wilcoxon,Regressão Logística vs Random Forest,-0.31877,0.0625,0.9375
+f1_macro,Wilcoxon,Regressão Logística vs Gradient Boosting,-0.23111,0.0625,0.9375
+f1_macro,Wilcoxon,Regressão Logística vs XGBoost,-0.34232,0.0625,0.9375
+f1_macro,Wilcoxon,Regressão Logística vs SVM (Nyström),-0.03682,0.1875,0.9375
+f1_macro,Wilcoxon,Árvore de Decisão vs Random Forest,-0.05294,0.0625,0.9375
+f1_macro,Wilcoxon,Árvore de Decisão vs Gradient Boosting,0.03472,0.8125,0.9375
+f1_macro,Wilcoxon,Árvore de Decisão vs XGBoost,-0.07649,0.0625,0.9375
+f1_macro,Wilcoxon,Árvore de Decisão vs SVM (Nyström),0.22901,0.0625,0.9375
+f1_macro,Wilcoxon,Random Forest vs Gradient Boosting,0.08766,0.0625,0.9375
+f1_macro,Wilcoxon,Random Forest vs XGBoost,-0.02355,0.0625,0.9375
+f1_macro,Wilcoxon,Random Forest vs SVM (Nyström),0.28195,0.0625,0.9375
+f1_macro,Wilcoxon,Gradient Boosting vs XGBoost,-0.11121,0.0625,0.9375
+f1_macro,Wilcoxon,Gradient Boosting vs SVM (Nyström),0.19429,0.0625,0.9375
+f1_macro,Wilcoxon,XGBoost vs SVM (Nyström),0.3055,0.0625,0.9375
+mcc,Friedman,todos,23.51429,0.00027,
+mcc,Wilcoxon,Regressão Logística vs Árvore de Decisão,-0.10344,0.0625,0.9375
+mcc,Wilcoxon,Regressão Logística vs Random Forest,-0.17555,0.0625,0.9375
+mcc,Wilcoxon,Regressão Logística vs Gradient Boosting,-0.09179,0.125,0.9375
+mcc,Wilcoxon,Regressão Logística vs XGBoost,-0.19654,0.0625,0.9375
+mcc,Wilcoxon,Regressão Logística vs SVM (Nyström),0.05315,0.0625,0.9375
+mcc,Wilcoxon,Árvore de Decisão vs Random Forest,-0.07211,0.0625,0.9375
+mcc,Wilcoxon,Árvore de Decisão vs Gradient Boosting,0.01164,0.8125,0.9375
+mcc,Wilcoxon,Árvore de Decisão vs XGBoost,-0.0931,0.0625,0.9375
+mcc,Wilcoxon,Árvore de Decisão vs SVM (Nyström),0.15659,0.0625,0.9375
+mcc,Wilcoxon,Random Forest vs Gradient Boosting,0.08376,0.0625,0.9375
+mcc,Wilcoxon,Random Forest vs XGBoost,-0.02099,0.0625,0.9375
+mcc,Wilcoxon,Random Forest vs SVM (Nyström),0.2287,0.0625,0.9375
+mcc,Wilcoxon,Gradient Boosting vs XGBoost,-0.10475,0.0625,0.9375
+mcc,Wilcoxon,Gradient Boosting vs SVM (Nyström),0.14494,0.0625,0.9375
+mcc,Wilcoxon,XGBoost vs SVM (Nyström),0.24969,0.0625,0.9375

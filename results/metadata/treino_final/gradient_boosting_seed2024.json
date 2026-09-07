@@ -1,0 +1,26 @@
+{
+  "modelo": "gradient_boosting",
+  "seed": 2024,
+  "params": {
+    "learning_rate": 0.05,
+    "max_iter": 200,
+    "max_leaf_nodes": 31
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 280.0,
+  "tempo_inferencia_total_s": 423.58,
+  "tempo_inferencia_por_amostra_us": 42.022,
+  "tamanho_modelo_bytes": 6900678,
+  "pico_memoria_MB": 1469.0,
+  "acuracia": 0.6197811507936508,
+  "acuracia_balanceada": 0.6609469963369964,
+  "f1_macro": 0.6693205226856612,
+  "f1_ponderada": 0.6435962770401076,
+  "mcc": 0.604267202168043,
+  "rotulo_run_acuracia": 0.5535801587301588,
+  "rotulo_run_f1_macro": 0.5957758842649046,
+  "rotulo_run_mcc": 0.5390903097520297,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4
+}

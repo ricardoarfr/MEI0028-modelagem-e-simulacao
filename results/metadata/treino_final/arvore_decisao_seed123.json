@@ -1,0 +1,22 @@
+{
+  "modelo": "arvore_decisao",
+  "seed": 123,
+  "params": {
+    "min_samples_leaf": 20,
+    "max_depth": null
+  },
+  "n_treino": 1050000,
+  "n_teste": 10080000,
+  "tempo_treino_s": 83.19,
+  "tempo_inferencia_total_s": 1.61,
+  "tempo_inferencia_por_amostra_us": 0.159,
+  "tamanho_modelo_bytes": 1842827,
+  "pico_memoria_MB": 1730.3,
+  "acuracia": 0.672005753968254,
+  "acuracia_balanceada": 0.7398012316849817,
+  "f1_macro": 0.7405925163759448,
+  "f1_ponderada": 0.6895019286293373,
+  "mcc": 0.6563727136236305,
+  "hardware": "Apple M3 8GB (4P+4E)",
+  "n_jobs": 4
+}

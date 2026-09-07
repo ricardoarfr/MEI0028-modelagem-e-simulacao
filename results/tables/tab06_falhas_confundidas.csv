@@ -1,0 +1,61 @@
+modelo,verdadeira,predita,fracao_da_classe,n
+Gradient Boosting,9,0,0.3522,704439
+Gradient Boosting,15,0,0.3435,686953
+Gradient Boosting,3,0,0.3153,630594
+Gradient Boosting,9,3,0.2206,441259
+Gradient Boosting,15,3,0.2106,421259
+Gradient Boosting,0,3,0.182,1893235
+Gradient Boosting,9,15,0.1397,279480
+Gradient Boosting,15,9,0.1293,258537
+Gradient Boosting,3,15,0.1192,238454
+Gradient Boosting,3,9,0.1089,217717
+Random Forest,9,0,0.3489,697765
+Random Forest,15,0,0.3421,684176
+Random Forest,3,0,0.3282,656459
+Random Forest,9,3,0.2104,420746
+Random Forest,15,3,0.2023,404690
+Random Forest,9,15,0.1953,390662
+Random Forest,0,3,0.1806,1878739
+Random Forest,3,15,0.1752,350484
+Random Forest,15,9,0.1607,321394
+Random Forest,3,9,0.1432,286368
+Regressão Logística,9,0,0.9266,1853160
+Regressão Logística,15,0,0.9263,1852520
+Regressão Logística,3,0,0.9244,1848825
+Regressão Logística,10,0,0.8447,1689465
+Regressão Logística,19,0,0.8298,1659580
+Regressão Logística,16,0,0.6625,1325010
+Regressão Logística,11,0,0.6203,1240580
+Regressão Logística,14,0,0.5513,1102595
+Regressão Logística,11,4,0.2816,563130
+Regressão Logística,16,13,0.2804,560845
+SVM (Nyström),11,14,0.3617,723491
+SVM (Nyström),11,4,0.2888,577510
+SVM (Nyström),0,10,0.2875,2989529
+SVM (Nyström),3,10,0.285,569933
+SVM (Nyström),9,10,0.2827,565365
+SVM (Nyström),15,10,0.2779,555849
+SVM (Nyström),16,10,0.2766,553199
+SVM (Nyström),10,8,0.1783,356544
+SVM (Nyström),0,16,0.1764,1834054
+SVM (Nyström),9,16,0.1722,344346
+XGBoost,9,0,0.3338,667506
+XGBoost,15,0,0.3254,650828
+XGBoost,3,0,0.3037,607339
+XGBoost,9,3,0.2437,487352
+XGBoost,15,3,0.2295,459033
+XGBoost,0,3,0.2032,2113569
+XGBoost,9,15,0.1851,370290
+XGBoost,15,9,0.1746,349171
+XGBoost,3,15,0.157,313973
+XGBoost,3,9,0.1446,289246
+Árvore de Decisão,9,0,0.248,496057
+Árvore de Decisão,15,0,0.2444,488741
+Árvore de Decisão,3,0,0.2431,486290
+Árvore de Decisão,9,15,0.2164,432776
+Árvore de Decisão,15,9,0.2116,423165
+Árvore de Decisão,3,15,0.21,420037
+Árvore de Decisão,3,9,0.2096,419193
+Árvore de Decisão,9,3,0.2004,400848
+Árvore de Decisão,15,3,0.1968,393576
+Árvore de Decisão,0,9,0.1909,1984898

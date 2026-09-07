@@ -1,0 +1,124 @@
+== Sun Sep  6 23:05:02 -03 2026 LR busca
+treino 525,000 | validação 525,000 | max_iter=5000
+{"params": {"C": 0.01}, "f1_macro": 0.44535996451322324, "mcc": 0.5127031613987397, "acuracia_balanceada": 0.4831809523809523, "acuracia": 0.502352380952381, "tempo_treino_s": 9.9, "n_iter": 98, "max_iter": 5000, "convergiu": true}
+{"params": {"C": 0.1}, "f1_macro": 0.45813021595784886, "mcc": 0.5204007836035137, "acuracia_balanceada": 0.49253082010582017, "acuracia": 0.5109104761904761, "tempo_treino_s": 16.7, "n_iter": 204, "max_iter": 5000, "convergiu": true}
+{"params": {"C": 1.0}, "f1_macro": 0.46379001022724625, "mcc": 0.5247666982896303, "acuracia_balanceada": 0.49797394179894183, "acuracia": 0.5158780952380952, "tempo_treino_s": 28.7, "n_iter": 379, "max_iter": 5000, "convergiu": true}
+{"params": {"C": 10.0}, "f1_macro": 0.4640917955146629, "mcc": 0.5252496321034498, "acuracia_balanceada": 0.4996562169312169, "acuracia": 0.5172628571428571, "tempo_treino_s": 38.2, "n_iter": 512, "max_iter": 5000, "convergiu": true}
+MELHOR: {'params': {'C': 10.0}, 'f1_macro': 0.4640917955146629, 'mcc': 0.5252496321034498, 'acuracia_balanceada': 0.4996562169312169, 'acuracia': 0.5172628571428571, 'tempo_treino_s': 38.2, 'n_iter': 512, 'max_iter': 5000, 'convergiu': True} 
+BUSCA LR COMPLETA
+== Sun Sep  6 23:06:47 -03 2026 LR final seed 42
+{"modelo": "regressao_logistica", "seed": 42, "params": {"C": 10.0}, "n_treino": 1050000, "n_teste": 10080000, "tempo_treino_s": 127.83, "tempo_inferencia_total_s": 1.13, "tempo_inferencia_por_amostra_us": 0.113, "tamanho_modelo_bytes": 6445, "pico_memoria_MB": 1498.3, "acuracia": 0.57914375, "acuracia_balanceada": 0.508589423076923, "f1_macro": 0.4748833035126732, "f1_ponderada": 0.4885486460524724, "mcc": 0.5530446541692656, "rotulo_run_acuracia": 0.4315781746031746, "rotulo_run_f1_macro": 0.4171780154760124, "rotulo_run_mcc": 0.4564103548776393, "hardware": "Apple M3 8GB (4P+4E)", "n_jobs": 4, "n_iter": 841, "max_iter": 5000}
+== Sun Sep  6 23:09:09 -03 2026 LR final seed 123
+{"modelo": "regressao_logistica", "seed": 123, "params": {"C": 10.0}, "n_treino": 1050000, "n_teste": 10080000, "tempo_treino_s": 148.78, "tempo_inferencia_total_s": 1.3, "tempo_inferencia_por_amostra_us": 0.129, "tamanho_modelo_bytes": 6445, "pico_memoria_MB": 1191.4, "acuracia": 0.57914375, "acuracia_balanceada": 0.508589423076923, "f1_macro": 0.4748833035126732, "f1_ponderada": 0.4885486460524724, "mcc": 0.5530446541692656, "rotulo_run_acuracia": 0.4315781746031746, "rotulo_run_f1_macro": 0.4171780154760124, "rotulo_run_mcc": 0.4564103548776393, "hardware": "Apple M3 8GB (4P+4E)", "n_jobs": 4, "n_iter": 841, "max_iter": 5000}
+== Sun Sep  6 23:11:51 -03 2026 LR final seed 2024
+{"modelo": "regressao_logistica", "seed": 2024, "params": {"C": 10.0}, "n_treino": 1050000, "n_teste": 10080000, "tempo_treino_s": 137.48, "tempo_inferencia_total_s": 1.11, "tempo_inferencia_por_amostra_us": 0.11, "tamanho_modelo_bytes": 6445, "pico_memoria_MB": 978.2, "acuracia": 0.57914375, "acuracia_balanceada": 0.508589423076923, "f1_macro": 0.4748833035126732, "f1_ponderada": 0.4885486460524724, "mcc": 0.5530446541692656, "rotulo_run_acuracia": 0.4315781746031746, "rotulo_run_f1_macro": 0.4171780154760124, "rotulo_run_mcc": 0.4564103548776393, "hardware": "Apple M3 8GB (4P+4E)", "n_jobs": 4, "n_iter": 841, "max_iter": 5000}
+== Sun Sep  6 23:14:23 -03 2026 LR final seed 7
+{"modelo": "regressao_logistica", "seed": 7, "params": {"C": 10.0}, "n_treino": 1050000, "n_teste": 10080000, "tempo_treino_s": 142.76, "tempo_inferencia_total_s": 1.95, "tempo_inferencia_por_amostra_us": 0.194, "tamanho_modelo_bytes": 6445, "pico_memoria_MB": 1062.8, "acuracia": 0.57914375, "acuracia_balanceada": 0.508589423076923, "f1_macro": 0.4748833035126732, "f1_ponderada": 0.4885486460524724, "mcc": 0.5530446541692656, "rotulo_run_acuracia": 0.4315781746031746, "rotulo_run_f1_macro": 0.4171780154760124, "rotulo_run_mcc": 0.4564103548776393, "hardware": "Apple M3 8GB (4P+4E)", "n_jobs": 4, "n_iter": 841, "max_iter": 5000}
+== Sun Sep  6 23:17:04 -03 2026 LR final seed 555
+{"modelo": "regressao_logistica", "seed": 555, "params": {"C": 10.0}, "n_treino": 1050000, "n_teste": 10080000, "tempo_treino_s": 167.1, "tempo_inferencia_total_s": 1.8, "tempo_inferencia_por_amostra_us": 0.179, "tamanho_modelo_bytes": 6445, "pico_memoria_MB": 1042.0, "acuracia": 0.57914375, "acuracia_balanceada": 0.508589423076923, "f1_macro": 0.4748833035126732, "f1_ponderada": 0.4885486460524724, "mcc": 0.5530446541692656, "rotulo_run_acuracia": 0.4315781746031746, "rotulo_run_f1_macro": 0.4171780154760124, "rotulo_run_mcc": 0.4564103548776393, "hardware": "Apple M3 8GB (4P+4E)", "n_jobs": 4, "n_iter": 841, "max_iter": 5000}
+== Sun Sep  6 23:20:08 -03 2026 piloto repetições
+Traceback (most recent call last):
+  File "./ProjetoA_WP1A/src/04b_piloto_vazamento_repeticoes.py", line 25, in <module>
+    tr=ALL.merge(pick("treino",seed),on=["faultNumber","simulationRun"]); va=ALL.merge(pick("validacao",seed),on=["faultNumber","simulationRun"])
+                 ^^^^^^^^^^^^^^^^^^^
+  File "./ProjetoA_WP1A/src/04b_piloto_vazamento_repeticoes.py", line 22, in pick
+    return g.groupby("faultNumber",group_keys=False).apply(lambda d: d.iloc[rng.permutation(len(d))[:N_RUNS]])[["faultNumber","simulationRun"]]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/pandas/core/frame.py", line 4384, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6302, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "./ProjetoA_WP1A/.venv/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6355, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['faultNumber'] not in index"
+== Sun Sep  6 23:20:21 -03 2026 bootstrap
+regressao_logistica execuções 10500 amostras×sementes 50400000
+arvore_decisao execuções 10500 amostras×sementes 50400000
+random_forest execuções 10500 amostras×sementes 50400000
+gradient_boosting execuções 10500 amostras×sementes 50400000
+xgboost execuções 10500 amostras×sementes 50400000
+svm_nystroem execuções 10500 amostras×sementes 50400000
+bootstrap 0
+bootstrap 500
+bootstrap 1000
+bootstrap 1500
+                 modelo   metrica  estimativa  ic95_inf  ic95_sup  largura
+0   Regressão Logística  f1_macro      0.4749    0.4738    0.4759   0.0021
+1   Regressão Logística       mcc      0.5530    0.5520    0.5540   0.0020
+2     Árvore de Decisão  f1_macro      0.7407    0.7398    0.7416   0.0019
+3     Árvore de Decisão       mcc      0.6565    0.6556    0.6573   0.0017
+4         Random Forest  f1_macro      0.7937    0.7928    0.7945   0.0017
+5         Random Forest       mcc      0.7286    0.7276    0.7295   0.0019
+6     Gradient Boosting  f1_macro      0.7010    0.7002    0.7018   0.0016
+7     Gradient Boosting       mcc      0.6435    0.6427    0.6443   0.0017
+8               XGBoost  f1_macro      0.8172    0.8165    0.8179   0.0014
+9               XGBoost       mcc      0.7496    0.7487    0.7504   0.0017
+10        SVM (Nyström)  f1_macro      0.4966    0.4957    0.4975   0.0019
+11        SVM (Nyström)       mcc      0.4862    0.4852    0.4872   0.0021
+     metrica                                comparacao  diferenca  ic95_inf  ic95_sup  exclui_zero
+0   f1_macro  Regressão Logística vs Árvore de Decisão    -0.2658   -0.2669   -0.2647         True
+1        mcc  Regressão Logística vs Árvore de Decisão    -0.1034   -0.1045   -0.1023         True
+2   f1_macro      Regressão Logística vs Random Forest    -0.3188   -0.3199   -0.3177         True
+3        mcc      Regressão Logística vs Random Forest    -0.1756   -0.1768   -0.1744         True
+4   f1_macro  Regressão Logística vs Gradient Boosting    -0.2261   -0.2272   -0.2251         True
+5        mcc  Regressão Logística vs Gradient Boosting    -0.0905   -0.0916   -0.0893         True
+6   f1_macro            Regressão Logística vs XGBoost    -0.3423   -0.3434   -0.3413         True
+7        mcc            Regressão Logística vs XGBoost    -0.1965   -0.1977   -0.1954         True
+8   f1_macro      Regressão Logística vs SVM (Nyström)    -0.0217   -0.0228   -0.0207         True
+9        mcc      Regressão Logística vs SVM (Nyström)     0.0668    0.0656    0.0680         True
+10  f1_macro        Árvore de Decisão vs Random Forest    -0.0529   -0.0537   -0.0521         True
+11       mcc        Árvore de Decisão vs Random Forest    -0.0721   -0.0729   -0.0712         True
+12  f1_macro    Árvore de Decisão vs Gradient Boosting     0.0397    0.0388    0.0405         True
+13       mcc    Árvore de Decisão vs Gradient Boosting     0.0130    0.0121    0.0138         True
+14  f1_macro              Árvore de Decisão vs XGBoost    -0.0765   -0.0773   -0.0756         True
+15       mcc              Árvore de Decisão vs XGBoost    -0.0931   -0.0940   -0.0922         True
+16  f1_macro        Árvore de Decisão vs SVM (Nyström)     0.2441    0.2431    0.2450         True
+17       mcc        Árvore de Decisão vs SVM (Nyström)     0.1703    0.1692    0.1713         True
+18  f1_macro        Random Forest vs Gradient Boosting     0.0926    0.0920    0.0932         True
+19       mcc        Random Forest vs Gradient Boosting     0.0851    0.0845    0.0856         True
+20  f1_macro                  Random Forest vs XGBoost    -0.0235   -0.0240   -0.0231         True
+21       mcc                  Random Forest vs XGBoost    -0.0210   -0.0214   -0.0206         True
+22  f1_macro            Random Forest vs SVM (Nyström)     0.2970    0.2962    0.2979         True
+23       mcc            Random Forest vs SVM (Nyström)     0.2424    0.2413    0.2435         True
+24  f1_macro              Gradient Boosting vs XGBoost    -0.1162   -0.1168   -0.1156         True
+25       mcc              Gradient Boosting vs XGBoost    -0.1061   -0.1066   -0.1055         True
+26  f1_macro        Gradient Boosting vs SVM (Nyström)     0.2044    0.2037    0.2051         True
+27       mcc        Gradient Boosting vs SVM (Nyström)     0.1573    0.1563    0.1582         True
+28  f1_macro                  XGBoost vs SVM (Nyström)     0.3206    0.3197    0.3215         True
+29       mcc                  XGBoost vs SVM (Nyström)     0.2634    0.2622    0.2645         True
+BOOTSTRAP COMPLETO
+== Sun Sep  6 23:21:52 -03 2026 avaliação 08
+modelos com resultados: ['regressao_logistica', 'arvore_decisao', 'random_forest', 'gradient_boosting', 'xgboost', 'svm_nystroem'] | execuções: 30
+  regressao_logistica seed42 ok
+  regressao_logistica seed123 ok
+  regressao_logistica seed2024 ok
+  regressao_logistica seed7 ok
+  regressao_logistica seed555 ok
+  arvore_decisao seed42 ok
+  arvore_decisao seed123 ok
+  arvore_decisao seed2024 ok
+  arvore_decisao seed7 ok
+  arvore_decisao seed555 ok
+  random_forest seed42 ok
+  random_forest seed123 ok
+  random_forest seed2024 ok
+  random_forest seed7 ok
+  random_forest seed555 ok
+  gradient_boosting seed42 ok
+  gradient_boosting seed123 ok
+  gradient_boosting seed2024 ok
+  gradient_boosting seed7 ok
+  gradient_boosting seed555 ok
+  xgboost seed42 ok
+  xgboost seed123 ok
+  xgboost seed2024 ok
+  xgboost seed7 ok
+  xgboost seed555 ok
+  svm_nystroem seed42 ok
+  svm_nystroem seed123 ok
+  svm_nystroem seed2024 ok
+  svm_nystroem seed7 ok
+  svm_nystroem seed555 ok
+AVALIACAO COMPLETA
+== Sun Sep  6 23:23:14 -03 2026 FIM CODEX
